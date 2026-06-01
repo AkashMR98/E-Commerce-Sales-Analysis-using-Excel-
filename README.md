@@ -1,4 +1,6 @@
-  # E-Commerce-Sales-Analysis-using-Excel-
+  # E-Commerce-Sales-Analysis-using-Excel
+
+  ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 
 ## 📌 Project Overview
 
@@ -112,3 +114,27 @@ The findings can help businesses improve:
 - Sales strategies
 - Customer targeting
 - Payment optimization
+
+--------------------------------------------------------------------------------------------------------------
+
+## Author
+
+#### Akash MR
+
+Data Analyst 
+
+
+
+- Github : [Akash MR](https://github.com/AkashMR98/Project-PowerBI-Restaurant-Orders-Dashboard/blob/main/README.md)
+
+- Email : [Akash MR](akashmr757@gmail.com)
+
+---
+
+Tags 
+
+
+
+`#Excel` `#DataAnalysis` `#Powerquery` 
+
+`#e-commerceAnalysis`
